@@ -1,5 +1,4 @@
-CREATE DATABASE burger_db;
-USE burger_db;
+USE pagycwnhjwstips6;
 
 CREATE TABLE burgers
 (
