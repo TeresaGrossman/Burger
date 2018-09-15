@@ -1,1 +1,1 @@
-# Burger
+This app is a Great EATS! logger with MySQL, Node, Express, Handlebars and a homemade ORM.  It follows the MVC design with Node and MySQL to query and route data in the app and Handlebars to generate the HTML.
